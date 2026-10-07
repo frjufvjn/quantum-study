@@ -14,8 +14,8 @@ updated: 2026-10-07
 - [ ] 확률과 기댓값
 
 ## 1. 양자역학 기초
-- [ ] 큐비트와 블로흐 구(Bloch sphere)
-- [ ] 중첩(superposition)과 측정(measurement)
+- [~] 큐비트와 블로흐 구(Bloch sphere) — [[amplitude-and-phase]]
+- [~] 중첩(superposition)과 측정(measurement) — [[superposition]], [[quantum-parallelism]]
 - [ ] 다중 큐비트와 얽힘(entanglement)
 - [ ] 복제 불가 정리(no-cloning theorem)
 
@@ -48,4 +48,4 @@ updated: 2026-10-07
 - [ ] 양자 암호, QKD, 양자 내성 암호(PQC)
 
 ## 현재 위치
-- 시작 전 (2026-10-07 저장소 초기화)
+- 2026-10-07: 『처음 읽는 양자컴퓨터 이야기』로 1단계(중첩, 진폭과 위상, 병렬성과 측정) 시작
