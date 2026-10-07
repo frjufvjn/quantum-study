@@ -1,4 +1,2 @@
 .DS_Store
-.obsidian/workspace*.json
-.ipynb_checkpoints/
-__pycache__/
+.idea/
